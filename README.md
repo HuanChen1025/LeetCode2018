@@ -5,7 +5,7 @@ LeetCode solutions in Java 8 and Python3.
 
 |NO.|Title|中文名|Solution|Note|Difficulty|Tag|
 |---|-----|----|--------------|-------|---|---|
-|0|[Two Sum](https://leetcode.com/problems/two-sum) ||[Java](000.%20Two%20Sum/solution.h) [Python](000.%20Two%20Sum/solution.py)|[Note](000.%20Two%20Sum)|<font color="#5cb85c">Easy</font>|`Mapping`|
+|0|[Two Sum](https://leetcode.com/problems/two-sum) ||[Java](000.%20Two%20Sum/TwoSum.java) [Python](000.%20Two%20Sum/TwoSum.py)|[Note](000.%20Two%20Sum)|<font color="#5cb85c">Easy</font>|`Mapping`|
 |1|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)||[Java](001.%20Add%20Two%20Numbers/solution.h) [Python](001.%20Add%20Two%20Numbers/solution.py)|[Note](001.%20Add%20Two%20Numbers)|<font color="#f0ad4e">Medium</font> |`LinkedList`|
 |2|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)||[Java](002.%20Longest%20Substring%20Without%20Repeating%20Characters/solution.h) [Python](002.%20Longest%20Substring%20Without%20Repeating%20Characters/solution.py)|[Note](002.%20Longest%20Substring%20Without%20Repeating%20Characters)|<font color="#f0ad4e">Medium</font>|`Mapping`|
 |3|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)||[Java](003.%20Median%20of%20Two%20Sorted%20Arrays/solution.h) [Python](003.%20Median%20of%20Two%20Sorted%20Arrays/solution.py)|[Note](003.%20Median%20of%20Two%20Sorted%20Arrays)|<font color="#d9534f">Hard</font>|
